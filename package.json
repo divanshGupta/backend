@@ -1,0 +1,22 @@
+{
+  "name": "coffecode",
+  "version": "1.0.0",
+  "description": "first backend project learned from chai aur code by hitesh chaudhary sir",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai",
+    "express",
+    "mongo",
+    "backend"
+  ],
+  "author": "Divyansh Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^21.6.2"
+  }
+}
